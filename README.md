@@ -1,4 +1,8 @@
-## Hi there 👋
+# ¡Hola! Soy Carlos Caletti 👋
+
+## 🚀 Sobre mí
+Apasionado por la tecnología y el desarrollo de soluciones empresariales. 
+Actualmente desarrollando el ecosistema "Caletti Studio" para gestión de procesos.
 
 
 ## 🛠️ Tecnologías y Herramientas
