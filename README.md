@@ -58,9 +58,27 @@ Attualmente sto sviluppando l'ecosistema **"Caletti Studio"** per la gestione de
 
 ---
 
-## 📈 Conectemos
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINK_DE_LINKEDIN)
-[![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/studio-caletti)
+## 📈 Connect with me | Conectemos | Connettiamoci
+
+### 🇺🇸 English
+* **Website:** [studio.caletti.com.mx](https://studio.caletti.com.mx)
+* **LinkedIn:** [LinkedIn Profile](TU_LINK_DE_LINKEDIN)
+
+### 🇲🇽 Español
+* **Sitio Web:** [studio.caletti.com.mx](https://studio.caletti.com.mx)
+* **LinkedIn:** [Perfil de LinkedIn](TU_LINK_DE_LINKEDIN)
+
+### 🇮🇹 Italiano
+* **Sito Web:** [studio.caletti.com.mx](https://studio.caletti.com.mx)
+* **LinkedIn:** [Profilo LinkedIn](TU_LINK_DE_LINKEDIN)
+
+---
+
+<p align="center">
+  <a href="https://studio.caletti.com.mx">
+    <img src="https://img.shields.io/badge/Visit%20My%20Studio-Caletti%20Network-blue?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
 
 <!--## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=studio-caletti&show_icons=true&theme=radical)
