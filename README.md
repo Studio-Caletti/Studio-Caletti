@@ -60,6 +60,11 @@ Attualmente sto sviluppando l'ecosistema **"Caletti Studio"** per la gestione de
 
 ## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=studio-caletti&show_icons=true&theme=radical)
+
+
+## 📊 GitHub Activities
+![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=studio-caletti&show_icons=true&theme=transparent&title_color=007acc&text_color=ffffff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=studio-caletti&layout=compact&theme=transparent&title_color=007acc&text_color=ffffff)
 <!--
 **Studio-Caletti/Studio-Caletti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
