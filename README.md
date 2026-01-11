@@ -58,14 +58,18 @@ Attualmente sto sviluppando l'ecosistema **"Caletti Studio"** per la gestione de
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Conectemos
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINK_DE_LINKEDIN)
+[![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/studio-caletti)
+
+<!--## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=studio-caletti&show_icons=true&theme=radical)
 
 
 ## 📊 GitHub Activities
 ![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=studio-caletti&show_icons=true&theme=transparent&title_color=007acc&text_color=ffffff)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=studio-caletti&layout=compact&theme=transparent&title_color=007acc&text_color=ffffff)
-<!--
+
 **Studio-Caletti/Studio-Caletti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
