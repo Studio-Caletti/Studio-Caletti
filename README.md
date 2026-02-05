@@ -12,7 +12,7 @@ Currently building the **"Caletti Studio"** ecosystem for advanced process manag
 ---
 
 <a name="español"></a>
-## 🇲🇽 Sobre mí
+## 🇪🇸 Sobre mí
 Apasionado por la tecnología y el desarrollo de soluciones empresariales. 
 Actualmente desarrollando el ecosistema **"Caletti Studio"** para la gestión de procesos e integración con Odoo.
 
