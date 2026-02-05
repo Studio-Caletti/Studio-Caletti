@@ -64,7 +64,7 @@ Attualmente sto sviluppando l'ecosistema **"Caletti Studio"** per la gestione de
 * **Website:** [studio.caletti.com.mx](https://studio.caletti.com.mx)
 * **LinkedIn:** [LinkedIn Profile](TU_LINK_DE_LINKEDIN)
 
-### 🇲🇽 Español
+### 🇪🇸 Español
 * **Sitio Web:** [studio.caletti.com.mx](https://studio.caletti.com.mx)
 * **LinkedIn:** [Perfil de LinkedIn](TU_LINK_DE_LINKEDIN)
 
